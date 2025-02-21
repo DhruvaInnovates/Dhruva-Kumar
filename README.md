@@ -1,5 +1,5 @@
 # Dhruva_Innovates
-Welcome to my GitHub profile! I’m Dhruva Kumar.
+Welcome to my GitHub profile!
 # 👋 Hi there! I'm Dhruva Kumar Kalluru
 
 I'm an **Innovative and Results-Driven Software Engineer** with a strong foundation in developing scalable and efficient software solutions. I excel in dynamic environments where problem-solving and creativity are key.
